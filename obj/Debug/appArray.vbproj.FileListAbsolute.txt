@@ -1,0 +1,13 @@
+P:\programming\appArray\bin\Debug\appArray.exe.config
+P:\programming\appArray\bin\Debug\appArray.exe
+P:\programming\appArray\bin\Debug\appArray.pdb
+P:\programming\appArray\bin\Debug\appArray.xml
+P:\programming\appArray\obj\Debug\appArray.vbproj.AssemblyReference.cache
+P:\programming\appArray\obj\Debug\appArray.vbproj.SuggestedBindingRedirects.cache
+P:\programming\appArray\obj\Debug\appArray.Form1.resources
+P:\programming\appArray\obj\Debug\appArray.Resources.resources
+P:\programming\appArray\obj\Debug\appArray.vbproj.GenerateResource.cache
+P:\programming\appArray\obj\Debug\appArray.vbproj.CoreCompileInputs.cache
+P:\programming\appArray\obj\Debug\appArray.exe
+P:\programming\appArray\obj\Debug\appArray.xml
+P:\programming\appArray\obj\Debug\appArray.pdb
